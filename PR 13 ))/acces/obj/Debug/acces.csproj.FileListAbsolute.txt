@@ -1,0 +1,10 @@
+D:\Горош Кузя\Практические 1-17\PR 13 ))\acces\bin\Debug\acces.exe.config
+D:\Горош Кузя\Практические 1-17\PR 13 ))\acces\bin\Debug\acces.exe
+D:\Горош Кузя\Практические 1-17\PR 13 ))\acces\bin\Debug\acces.pdb
+D:\Горош Кузя\Практические 1-17\PR 13 ))\acces\obj\Debug\acces.csprojAssemblyReference.cache
+D:\Горош Кузя\Практические 1-17\PR 13 ))\acces\obj\Debug\acces.Form1.resources
+D:\Горош Кузя\Практические 1-17\PR 13 ))\acces\obj\Debug\acces.Properties.Resources.resources
+D:\Горош Кузя\Практические 1-17\PR 13 ))\acces\obj\Debug\acces.csproj.GenerateResource.cache
+D:\Горош Кузя\Практические 1-17\PR 13 ))\acces\obj\Debug\acces.csproj.CoreCompileInputs.cache
+D:\Горош Кузя\Практические 1-17\PR 13 ))\acces\obj\Debug\acces.exe
+D:\Горош Кузя\Практические 1-17\PR 13 ))\acces\obj\Debug\acces.pdb
