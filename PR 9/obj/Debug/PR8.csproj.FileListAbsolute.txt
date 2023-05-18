@@ -1,0 +1,40 @@
+D:\Горош Кузя\Практические 1-17\PR 8\PR8\bin\Debug\PR8.exe.config
+D:\Горош Кузя\Практические 1-17\PR 8\PR8\bin\Debug\PR8.exe
+D:\Горош Кузя\Практические 1-17\PR 8\PR8\bin\Debug\PR8.pdb
+D:\Горош Кузя\Практические 1-17\PR 8\PR8\obj\Debug\PR8.csprojAssemblyReference.cache
+D:\Горош Кузя\Практические 1-17\PR 8\PR8\obj\Debug\PR8.Form1.resources
+D:\Горош Кузя\Практические 1-17\PR 8\PR8\obj\Debug\PR8.Properties.Resources.resources
+D:\Горош Кузя\Практические 1-17\PR 8\PR8\obj\Debug\PR8.csproj.GenerateResource.cache
+D:\Горош Кузя\Практические 1-17\PR 8\PR8\obj\Debug\PR8.csproj.CoreCompileInputs.cache
+D:\Горош Кузя\Практические 1-17\PR 8\PR8\obj\Debug\PR8.exe
+D:\Горош Кузя\Практические 1-17\PR 8\PR8\obj\Debug\PR8.pdb
+D:\PR 8\PR8\bin\Debug\PR8.exe.config
+D:\PR 8\PR8\obj\Debug\PR8.exe
+D:\PR 8\PR8\obj\Debug\PR8.pdb
+D:\PR 8\PR8\bin\Debug\PR8.exe
+D:\PR 8\PR8\bin\Debug\PR8.pdb
+D:\PR 8\PR8\obj\Debug\PR8.csprojResolveAssemblyReference.cache
+D:\PR 8\PR8\obj\Debug\PR8.Form1.resources
+D:\PR 8\PR8\obj\Debug\PR8.Properties.Resources.resources
+D:\PR 8\PR8\obj\Debug\PR8.csproj.GenerateResource.Cache
+D:\Горош Кузя\Практические 1-17\PR8\obj\Debug\PR8.csprojAssemblyReference.cache
+D:\Горош Кузя\Практические 1-17\PR8\obj\Debug\PR8.Form1.resources
+D:\Горош Кузя\Практические 1-17\PR8\obj\Debug\PR8.Properties.Resources.resources
+D:\Горош Кузя\Практические 1-17\PR8\obj\Debug\PR8.csproj.GenerateResource.cache
+D:\Горош Кузя\Практические 1-17\PR8\obj\Debug\PR8.csproj.CoreCompileInputs.cache
+D:\Горош Кузя\Практические 1-17\PR8\obj\Debug\PR8.exe
+D:\Горош Кузя\Практические 1-17\PR8\obj\Debug\PR8.pdb
+D:\Горош Кузя\Практические 1-17\PR8\bin\Debug\PR8.exe.config
+D:\Горош Кузя\Практические 1-17\PR8\bin\Debug\PR8.exe
+D:\Горош Кузя\Практические 1-17\PR8\bin\Debug\PR8.pdb
+D:\Горош Кузя\Практические 1-17\PR 9\bin\Debug\PR8.exe.config
+D:\Горош Кузя\Практические 1-17\PR 9\bin\Debug\PR8.exe
+D:\Горош Кузя\Практические 1-17\PR 9\bin\Debug\PR8.pdb
+D:\Горош Кузя\Практические 1-17\PR 9\obj\Debug\PR8.csprojAssemblyReference.cache
+D:\Горош Кузя\Практические 1-17\PR 9\obj\Debug\PR8.Colors.resources
+D:\Горош Кузя\Практические 1-17\PR 9\obj\Debug\PR8.Form1.resources
+D:\Горош Кузя\Практические 1-17\PR 9\obj\Debug\PR8.Properties.Resources.resources
+D:\Горош Кузя\Практические 1-17\PR 9\obj\Debug\PR8.csproj.GenerateResource.cache
+D:\Горош Кузя\Практические 1-17\PR 9\obj\Debug\PR8.csproj.CoreCompileInputs.cache
+D:\Горош Кузя\Практические 1-17\PR 9\obj\Debug\PR8.exe
+D:\Горош Кузя\Практические 1-17\PR 9\obj\Debug\PR8.pdb
