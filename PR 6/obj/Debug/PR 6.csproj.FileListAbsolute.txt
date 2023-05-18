@@ -1,0 +1,10 @@
+D:\Горош Макс\Практические 1-17\PR 6\bin\Debug\PR 6.exe.config
+D:\Горош Макс\Практические 1-17\PR 6\bin\Debug\PR 6.exe
+D:\Горош Макс\Практические 1-17\PR 6\bin\Debug\PR 6.pdb
+D:\Горош Макс\Практические 1-17\PR 6\obj\Debug\PR 6.csprojAssemblyReference.cache
+D:\Горош Макс\Практические 1-17\PR 6\obj\Debug\PR_6.Form1.resources
+D:\Горош Макс\Практические 1-17\PR 6\obj\Debug\PR_6.Properties.Resources.resources
+D:\Горош Макс\Практические 1-17\PR 6\obj\Debug\PR 6.csproj.GenerateResource.cache
+D:\Горош Макс\Практические 1-17\PR 6\obj\Debug\PR 6.csproj.CoreCompileInputs.cache
+D:\Горош Макс\Практические 1-17\PR 6\obj\Debug\PR 6.exe
+D:\Горош Макс\Практические 1-17\PR 6\obj\Debug\PR 6.pdb
