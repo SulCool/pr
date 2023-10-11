@@ -61,6 +61,7 @@ namespace test11
                     line(x0, y0, x1, y1, image, Color.White);
                 }
             }
+            image.RotateFlip(RotateFlipType.Rotate180FlipX);
             image.Save("img.bmp");
 
 
